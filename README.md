@@ -81,6 +81,8 @@ Open to internships, collaborations, freelance opportunities, and innovative pro
 
 ### Frameworks & Platforms
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=flat-square\&logo=django\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
@@ -92,9 +94,12 @@ Open to internships, collaborations, freelance opportunities, and innovative pro
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=json&logoColor=white)
 
 ### Cloud & Deployment
 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat-square&logo=godaddy&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
 ![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FF6F00?style=flat-square\&logo=firebase\&logoColor=white)
 
@@ -178,57 +183,6 @@ Kitsta • HRMS • Career Hub
 </td>
 </tr>
 </table>
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=preet0017&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preet0017&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=preet0017&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-# 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=preet0017&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
-
-</div>
-
----
-
-# 🚀 Jet Animation 
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/preet0017/preet0017/main/github-jet.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/preet0017/preet0017/main/github-jet.svg"
-    />
-    <img
-      alt="GitHub Jet Heatmap"
-      src="https://raw.githubusercontent.com/preet0017/preet0017/main/github-jet.svg"
-      width="100%"
-    />
-  </picture>
-</p>
 
 ---
 
