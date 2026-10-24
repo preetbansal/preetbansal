@@ -111,6 +111,26 @@ Open to internships, collaborations, freelance opportunities, and innovative pro
 
 ---
 
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=preetbansal&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetbansal&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=preetbansal&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
 # 🎯 Areas of Focus
 
 <table>
