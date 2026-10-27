@@ -111,6 +111,16 @@ Open to internships, collaborations, freelance opportunities, and innovative pro
 
 ---
 
+# 🚀 Startups & Products
+
+### 🍯 Hello Honey
+
+Building **Hello Honey**, a startup focused on creating convenient, honey-based energy gels that provide quick energy whenever you need it—whether you're working out, playing sports, or going about your busy day.
+
+🌐 **Website:** [Hello Honey](https://www.hellohoney.co.in)
+
+---
+
 # 📈 GitHub Statistics
 
 <div align="center">
